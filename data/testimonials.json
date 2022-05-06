@@ -1,0 +1,26 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Anar Allahverdiyev",
+      "firstName": "rosele",
+      "position": "Team Leader / Project Manager",
+      "info": "“My expectation is to start this business and apply around the country.",
+      "class": "active"
+    },
+    {
+      "id": 2,
+      "name": "Laman Khudadatzada",
+      "firstName": "marvin",
+      "position": "Web Developer",
+      "info": "“My expectation is to turn WaterSavers project into “Smart-Life” project, and develop devices for more efficient use of electricity and gas.”"
+    },
+    {
+      "id": 3,
+      "name": "Nuray Gurbanova",
+      "firstName": "guy",
+      "position": "Project Engineer",
+      "info": "“My expectation is to replace sensor inside of the WaterSavers with an integrated WiFi module in order to achieve the most modern version of our product”"
+    }
+  ]
+}
